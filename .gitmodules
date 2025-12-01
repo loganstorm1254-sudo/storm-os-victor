@@ -1,0 +1,3 @@
+[submodule "EXTERNALS"]
+	path = EXTERNALS
+	url = https://github.com/loganstorm1254-sudo/storm-os-externals
